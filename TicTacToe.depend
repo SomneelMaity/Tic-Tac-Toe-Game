@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1662793753 source:d:\coding\c++\oops\tictactoe\src\player.cpp
+	"PLAYER.h"
+	<bits/stdc++.h>
+
+1662793734 d:\coding\c++\oops\tictactoe\include\player.h
+	<bits/stdc++.h>
+
+1662793766 source:d:\coding\c++\oops\tictactoe\src\computer.cpp
+	"COMPUTER.h"
+	<bits/stdc++.h>
+
+1662793725 d:\coding\c++\oops\tictactoe\include\computer.h
+	<bits/stdc++.h>
+
+1662793784 source:d:\coding\c++\oops\tictactoe\main.cpp
+	<bits/stdc++.h>
+	"COMPUTER.h"
+	"PLAYER.h"
+	"BOARD.h"
+
+1662793627 d:\coding\c++\oops\tictactoe\include\board.h
+	<bits/stdc++.h>
+
+1662793608 source:d:\coding\c++\oops\tictactoe\src\board.cpp
+	"BOARD.h"
+	<bits/stdc++.h>
+
